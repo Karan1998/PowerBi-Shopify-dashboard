@@ -1,10 +1,10 @@
-# 📊 Shopify Sales & Customer Funnel Dashboard
+#  Shopify Sales & Customer Funnel Dashboard
 
 This interactive Power BI dashboard analyzes Shopify sales performance, customer behavior, and payment method trends across regions in the United States. It enables data-driven insights for marketing and business strategy.
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 This dashboard answers the following key business questions:
 
@@ -16,7 +16,7 @@ This dashboard answers the following key business questions:
 
 ---
 
-## 📌 Key Features
+##  Key Features
 
 - *KPI Cards*: Visual summary of Net Sales, Total Customers, AOV, LTV, Repeat Rate, etc.
 - *Trend Analysis*: Line and bar charts show quantity trends over time.
@@ -26,7 +26,7 @@ This dashboard answers the following key business questions:
   
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Power BI
 - DAX (for calculated measures)
